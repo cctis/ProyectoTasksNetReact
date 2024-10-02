@@ -1,0 +1,39 @@
+/* Estilos generales */
+.container {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Estilos de navegación */
+nav {
+  margin-bottom: 20px;
+}
+
+/* Estilos para los enlaces */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  margin-right: 15px;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: white;
+  background-color: #007BFF;
+  border-radius: 5px;
+}
+
+nav ul li a:hover {
+  background-color: #0056b3;
+}
+
+/* Estilo para el enlace activo */
+.active-link {
+  background-color: #0056b3;
+}

@@ -1,0 +1,91 @@
+.state-page-container {
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.state-page-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.state-form {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.state-input {
+  flex: 1;
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.state-button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.state-button:hover {
+  background-color: #0056b3;
+}
+
+.state-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.state-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  background-color: #fff;
+}
+
+.state-actions {
+  display: flex;
+}
+
+.state-edit-button,
+.state-delete-button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.state-edit-button {
+  background-color: #ffc107;
+  color: white;
+}
+
+.state-edit-button:hover {
+  background-color: #e0a800;
+}
+
+.state-delete-button {
+  background-color: #dc3545;
+  color: white;
+}
+
+.state-delete-button:hover {
+  background-color: #c82333;
+}

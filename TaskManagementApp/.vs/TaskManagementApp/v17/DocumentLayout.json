@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\ProyectosNet\\TaskManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B421FF33-A55F-4593-949E-9BF19522EB23}|TaskManagementApp\\TaskManagementApp.csproj|d:\\proyectos\\proyectosnet\\taskmanagementapp\\taskmanagementapp\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B421FF33-A55F-4593-949E-9BF19522EB23}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B421FF33-A55F-4593-949E-9BF19522EB23}|TaskManagementApp\\TaskManagementApp.csproj|d:\\proyectos\\proyectosnet\\taskmanagementapp\\taskmanagementapp\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B421FF33-A55F-4593-949E-9BF19522EB23}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B421FF33-A55F-4593-949E-9BF19522EB23}|TaskManagementApp\\TaskManagementApp.csproj|d:\\proyectos\\proyectosnet\\taskmanagementapp\\taskmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B421FF33-A55F-4593-949E-9BF19522EB23}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B421FF33-A55F-4593-949E-9BF19522EB23}|TaskManagementApp\\TaskManagementApp.csproj|d:\\proyectos\\proyectosnet\\taskmanagementapp\\taskmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B421FF33-A55F-4593-949E-9BF19522EB23}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B421FF33-A55F-4593-949E-9BF19522EB23}|TaskManagementApp\\TaskManagementApp.csproj|d:\\proyectos\\proyectosnet\\taskmanagementapp\\taskmanagementapp\\helpers\\conexionsegura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B421FF33-A55F-4593-949E-9BF19522EB23}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\helpers\\conexionsegura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\ProyectosNet\\TaskManagementApp\\TaskManagementApp\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\Proyectos\\ProyectosNet\\TaskManagementApp\\TaskManagementApp\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManagementApp\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:49:31.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\ProyectosNet\\TaskManagementApp\\TaskManagementApp\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Controllers\\StateController.cs",
+              "ToolTip": "D:\\Proyectos\\ProyectosNet\\TaskManagementApp\\TaskManagementApp\\Controllers\\StateController.cs",
+              "RelativeToolTip": "TaskManagementApp\\Controllers\\StateController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:48:50.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConexionSegura.cs",
+              "DocumentMoniker": "D:\\Proyectos\\ProyectosNet\\TaskManagementApp\\TaskManagementApp\\Helpers\\ConexionSegura.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Helpers\\ConexionSegura.cs",
+              "ToolTip": "D:\\Proyectos\\ProyectosNet\\TaskManagementApp\\TaskManagementApp\\Helpers\\ConexionSegura.cs",
+              "RelativeToolTip": "TaskManagementApp\\Helpers\\ConexionSegura.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:16:49.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyectos\\ProyectosNet\\TaskManagementApp\\TaskManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagementApp\\appsettings.json",
+              "ToolTip": "D:\\Proyectos\\ProyectosNet\\TaskManagementApp\\TaskManagementApp\\appsettings.json",
+              "RelativeToolTip": "TaskManagementApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T12:12:52.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos\\ProyectosNet\\TaskManagementApp\\TaskManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Program.cs",
+              "ToolTip": "D:\\Proyectos\\ProyectosNet\\TaskManagementApp\\TaskManagementApp\\Program.cs",
+              "RelativeToolTip": "TaskManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:12:50.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
